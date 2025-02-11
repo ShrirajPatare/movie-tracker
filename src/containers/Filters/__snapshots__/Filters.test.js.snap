@@ -1,0 +1,5346 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Filters should match the snapshot 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Filters
+    filters={
+      Object {
+        "genre": null,
+        "rating": null,
+        "sort": null,
+        "year": null,
+      }
+    }
+    searchQuery="die hard"
+    setFetchedMovies={[MockFunction]}
+    setFilters={[MockFunction]}
+    store={
+      Object {
+        "dispatch": [MockFunction],
+        "getState": [MockFunction],
+        "subscribe": [MockFunction],
+      }
+    }
+  />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateError": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": Array [
+        <section
+          className="genre-filter"
+        >
+          <h3
+            className="genre-slct"
+            id="genreState"
+            onClick={[Function]}
+          >
+            genre
+          </h3>
+          <ul
+            className=" genre-list"
+          >
+            <li
+              onClick={[Function]}
+              value={28}
+            >
+              Action
+            </li>
+            <li
+              onClick={[Function]}
+              value={12}
+            >
+              Adventure
+            </li>
+            <li
+              onClick={[Function]}
+              value={16}
+            >
+              Animation
+            </li>
+            <li
+              onClick={[Function]}
+              value={35}
+            >
+              Comedy
+            </li>
+            <li
+              onClick={[Function]}
+              value={80}
+            >
+              Crime
+            </li>
+            <li
+              onClick={[Function]}
+              value={99}
+            >
+              Documentary
+            </li>
+            <li
+              onClick={[Function]}
+              value={18}
+            >
+              Drama
+            </li>
+            <li
+              onClick={[Function]}
+              value={10751}
+            >
+              Family
+            </li>
+            <li
+              onClick={[Function]}
+              value={14}
+            >
+              Fantasy
+            </li>
+            <li
+              onClick={[Function]}
+              value={36}
+            >
+              History
+            </li>
+            <li
+              onClick={[Function]}
+              value={27}
+            >
+              Horror
+            </li>
+            <li
+              onClick={[Function]}
+              value={10402}
+            >
+              Music
+            </li>
+            <li
+              onClick={[Function]}
+              value={9648}
+            >
+              Mystery
+            </li>
+            <li
+              onClick={[Function]}
+              value={10749}
+            >
+              Romance
+            </li>
+            <li
+              onClick={[Function]}
+              value={878}
+            >
+              Science Fiction
+            </li>
+            <li
+              onClick={[Function]}
+              value={10770}
+            >
+              TV Movie
+            </li>
+            <li
+              onClick={[Function]}
+              value={53}
+            >
+              Thriller
+            </li>
+            <li
+              onClick={[Function]}
+              value={10752}
+            >
+              War
+            </li>
+            <li
+              onClick={[Function]}
+              value={37}
+            >
+              Western
+            </li>
+          </ul>
+        </section>,
+        <section
+          className="year-filter"
+        >
+          <h3
+            className="year-slct"
+            id="yearState"
+            onClick={[Function]}
+          >
+            year
+          </h3>
+          <ul
+            className=" year-list"
+          >
+            <li
+              onClick={[Function]}
+            >
+              2018
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              2017
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              2016
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              2015
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              2014
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              2013
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              2012
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              2011
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              2010
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              2009
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              2008
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              2007
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              2006
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              2005
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              2004
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              2003
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              2002
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              2001
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              2000
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              1999
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              1998
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              1997
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              1996
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              1995
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              1994
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              1993
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              1992
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              1991
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              1990
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              1989
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              1988
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              1987
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              1986
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              1985
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              1984
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              1983
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              1982
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              1981
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              1980
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              1979
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              1978
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              1977
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              1976
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              1975
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              1974
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              1973
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              1972
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              1971
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              1970
+            </li>
+          </ul>
+        </section>,
+        <section
+          className="rating-filter"
+        >
+          <h3
+            className="rating-slct"
+            id="ratingState"
+            onClick={[Function]}
+          >
+            rating
+          </h3>
+          <ul
+            className=" rating-list"
+          >
+            <li
+              onClick={[Function]}
+            >
+              G
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              PG-13
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              R
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              NC-17
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              NR
+            </li>
+            <li
+              onClick={[Function]}
+            >
+              PG
+            </li>
+          </ul>
+        </section>,
+        <section
+          className="sort-filter"
+        >
+          <h3
+            className="sort-by-slct"
+            id="sortState"
+            onClick={[Function]}
+          >
+            sort-by
+          </h3>
+          <ul
+            className=" sort-list"
+          >
+            <li
+              id="popularity.desc"
+              onClick={[Function]}
+            >
+              most popular
+            </li>
+            <li
+              id="popularity.asc"
+              onClick={[Function]}
+            >
+              least popular
+            </li>
+            <li
+              id="release_date.desc"
+              onClick={[Function]}
+            >
+              recently released
+            </li>
+            <li
+              id="release_date.asc"
+              onClick={[Function]}
+            >
+              oldest
+            </li>
+            <li
+              id="revenue.desc"
+              onClick={[Function]}
+            >
+              highest grossing
+            </li>
+            <li
+              id="revenue.asc"
+              onClick={[Function]}
+            >
+              lowest grossing
+            </li>
+            <li
+              id="original_title.desc"
+              onClick={[Function]}
+            >
+              title A to Z
+            </li>
+            <li
+              id="original_title.asc"
+              onClick={[Function]}
+            >
+              title Z to A
+            </li>
+          </ul>
+        </section>,
+        <button
+          className="filter-submit"
+          onClick={[Function]}
+        >
+          submit
+        </button>,
+        <button
+          className="filter-clear"
+          onClick={[Function]}
+        >
+          clear
+        </button>,
+      ],
+      "className": "filters",
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            <h3
+              className="genre-slct"
+              id="genreState"
+              onClick={[Function]}
+            >
+              genre
+            </h3>,
+            <ul
+              className=" genre-list"
+            >
+              <li
+                onClick={[Function]}
+                value={28}
+              >
+                Action
+              </li>
+              <li
+                onClick={[Function]}
+                value={12}
+              >
+                Adventure
+              </li>
+              <li
+                onClick={[Function]}
+                value={16}
+              >
+                Animation
+              </li>
+              <li
+                onClick={[Function]}
+                value={35}
+              >
+                Comedy
+              </li>
+              <li
+                onClick={[Function]}
+                value={80}
+              >
+                Crime
+              </li>
+              <li
+                onClick={[Function]}
+                value={99}
+              >
+                Documentary
+              </li>
+              <li
+                onClick={[Function]}
+                value={18}
+              >
+                Drama
+              </li>
+              <li
+                onClick={[Function]}
+                value={10751}
+              >
+                Family
+              </li>
+              <li
+                onClick={[Function]}
+                value={14}
+              >
+                Fantasy
+              </li>
+              <li
+                onClick={[Function]}
+                value={36}
+              >
+                History
+              </li>
+              <li
+                onClick={[Function]}
+                value={27}
+              >
+                Horror
+              </li>
+              <li
+                onClick={[Function]}
+                value={10402}
+              >
+                Music
+              </li>
+              <li
+                onClick={[Function]}
+                value={9648}
+              >
+                Mystery
+              </li>
+              <li
+                onClick={[Function]}
+                value={10749}
+              >
+                Romance
+              </li>
+              <li
+                onClick={[Function]}
+                value={878}
+              >
+                Science Fiction
+              </li>
+              <li
+                onClick={[Function]}
+                value={10770}
+              >
+                TV Movie
+              </li>
+              <li
+                onClick={[Function]}
+                value={53}
+              >
+                Thriller
+              </li>
+              <li
+                onClick={[Function]}
+                value={10752}
+              >
+                War
+              </li>
+              <li
+                onClick={[Function]}
+                value={37}
+              >
+                Western
+              </li>
+            </ul>,
+          ],
+          "className": "genre-filter",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": "genre",
+              "className": "genre-slct",
+              "id": "genreState",
+              "onClick": [Function],
+            },
+            "ref": null,
+            "rendered": "genre",
+            "type": "h3",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                <li
+                  onClick={[Function]}
+                  value={28}
+                >
+                  Action
+                </li>,
+                <li
+                  onClick={[Function]}
+                  value={12}
+                >
+                  Adventure
+                </li>,
+                <li
+                  onClick={[Function]}
+                  value={16}
+                >
+                  Animation
+                </li>,
+                <li
+                  onClick={[Function]}
+                  value={35}
+                >
+                  Comedy
+                </li>,
+                <li
+                  onClick={[Function]}
+                  value={80}
+                >
+                  Crime
+                </li>,
+                <li
+                  onClick={[Function]}
+                  value={99}
+                >
+                  Documentary
+                </li>,
+                <li
+                  onClick={[Function]}
+                  value={18}
+                >
+                  Drama
+                </li>,
+                <li
+                  onClick={[Function]}
+                  value={10751}
+                >
+                  Family
+                </li>,
+                <li
+                  onClick={[Function]}
+                  value={14}
+                >
+                  Fantasy
+                </li>,
+                <li
+                  onClick={[Function]}
+                  value={36}
+                >
+                  History
+                </li>,
+                <li
+                  onClick={[Function]}
+                  value={27}
+                >
+                  Horror
+                </li>,
+                <li
+                  onClick={[Function]}
+                  value={10402}
+                >
+                  Music
+                </li>,
+                <li
+                  onClick={[Function]}
+                  value={9648}
+                >
+                  Mystery
+                </li>,
+                <li
+                  onClick={[Function]}
+                  value={10749}
+                >
+                  Romance
+                </li>,
+                <li
+                  onClick={[Function]}
+                  value={878}
+                >
+                  Science Fiction
+                </li>,
+                <li
+                  onClick={[Function]}
+                  value={10770}
+                >
+                  TV Movie
+                </li>,
+                <li
+                  onClick={[Function]}
+                  value={53}
+                >
+                  Thriller
+                </li>,
+                <li
+                  onClick={[Function]}
+                  value={10752}
+                >
+                  War
+                </li>,
+                <li
+                  onClick={[Function]}
+                  value={37}
+                >
+                  Western
+                </li>,
+              ],
+              "className": " genre-list",
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": "28",
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Action",
+                  "onClick": [Function],
+                  "value": 28,
+                },
+                "ref": null,
+                "rendered": "Action",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "12",
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Adventure",
+                  "onClick": [Function],
+                  "value": 12,
+                },
+                "ref": null,
+                "rendered": "Adventure",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "16",
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Animation",
+                  "onClick": [Function],
+                  "value": 16,
+                },
+                "ref": null,
+                "rendered": "Animation",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "35",
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Comedy",
+                  "onClick": [Function],
+                  "value": 35,
+                },
+                "ref": null,
+                "rendered": "Comedy",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "80",
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Crime",
+                  "onClick": [Function],
+                  "value": 80,
+                },
+                "ref": null,
+                "rendered": "Crime",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "99",
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Documentary",
+                  "onClick": [Function],
+                  "value": 99,
+                },
+                "ref": null,
+                "rendered": "Documentary",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "18",
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Drama",
+                  "onClick": [Function],
+                  "value": 18,
+                },
+                "ref": null,
+                "rendered": "Drama",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "10751",
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Family",
+                  "onClick": [Function],
+                  "value": 10751,
+                },
+                "ref": null,
+                "rendered": "Family",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "14",
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Fantasy",
+                  "onClick": [Function],
+                  "value": 14,
+                },
+                "ref": null,
+                "rendered": "Fantasy",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "36",
+                "nodeType": "host",
+                "props": Object {
+                  "children": "History",
+                  "onClick": [Function],
+                  "value": 36,
+                },
+                "ref": null,
+                "rendered": "History",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "27",
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Horror",
+                  "onClick": [Function],
+                  "value": 27,
+                },
+                "ref": null,
+                "rendered": "Horror",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "10402",
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Music",
+                  "onClick": [Function],
+                  "value": 10402,
+                },
+                "ref": null,
+                "rendered": "Music",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "9648",
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Mystery",
+                  "onClick": [Function],
+                  "value": 9648,
+                },
+                "ref": null,
+                "rendered": "Mystery",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "10749",
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Romance",
+                  "onClick": [Function],
+                  "value": 10749,
+                },
+                "ref": null,
+                "rendered": "Romance",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "878",
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Science Fiction",
+                  "onClick": [Function],
+                  "value": 878,
+                },
+                "ref": null,
+                "rendered": "Science Fiction",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "10770",
+                "nodeType": "host",
+                "props": Object {
+                  "children": "TV Movie",
+                  "onClick": [Function],
+                  "value": 10770,
+                },
+                "ref": null,
+                "rendered": "TV Movie",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "53",
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Thriller",
+                  "onClick": [Function],
+                  "value": 53,
+                },
+                "ref": null,
+                "rendered": "Thriller",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "10752",
+                "nodeType": "host",
+                "props": Object {
+                  "children": "War",
+                  "onClick": [Function],
+                  "value": 10752,
+                },
+                "ref": null,
+                "rendered": "War",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "37",
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Western",
+                  "onClick": [Function],
+                  "value": 37,
+                },
+                "ref": null,
+                "rendered": "Western",
+                "type": "li",
+              },
+            ],
+            "type": "ul",
+          },
+        ],
+        "type": "section",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            <h3
+              className="year-slct"
+              id="yearState"
+              onClick={[Function]}
+            >
+              year
+            </h3>,
+            <ul
+              className=" year-list"
+            >
+              <li
+                onClick={[Function]}
+              >
+                2018
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2017
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2016
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2015
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2014
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2013
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2012
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2011
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2010
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2009
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2008
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2007
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2006
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2005
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2004
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2003
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2002
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2001
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2000
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1999
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1998
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1997
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1996
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1995
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1994
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1993
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1992
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1991
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1990
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1989
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1988
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1987
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1986
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1985
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1984
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1983
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1982
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1981
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1980
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1979
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1978
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1977
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1976
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1975
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1974
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1973
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1972
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1971
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1970
+              </li>
+            </ul>,
+          ],
+          "className": "year-filter",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": "year",
+              "className": "year-slct",
+              "id": "yearState",
+              "onClick": [Function],
+            },
+            "ref": null,
+            "rendered": "year",
+            "type": "h3",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                <li
+                  onClick={[Function]}
+                >
+                  2018
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  2017
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  2016
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  2015
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  2014
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  2013
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  2012
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  2011
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  2010
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  2009
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  2008
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  2007
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  2006
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  2005
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  2004
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  2003
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  2002
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  2001
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  2000
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  1999
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  1998
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  1997
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  1996
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  1995
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  1994
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  1993
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  1992
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  1991
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  1990
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  1989
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  1988
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  1987
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  1986
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  1985
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  1984
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  1983
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  1982
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  1981
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  1980
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  1979
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  1978
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  1977
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  1976
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  1975
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  1974
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  1973
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  1972
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  1971
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  1970
+                </li>,
+              ],
+              "className": " year-list",
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": "2018",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 2018,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 2018,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "2017",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 2017,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 2017,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "2016",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 2016,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 2016,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "2015",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 2015,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 2015,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "2014",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 2014,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 2014,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "2013",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 2013,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 2013,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "2012",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 2012,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 2012,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "2011",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 2011,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 2011,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "2010",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 2010,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 2010,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "2009",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 2009,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 2009,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "2008",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 2008,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 2008,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "2007",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 2007,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 2007,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "2006",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 2006,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 2006,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "2005",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 2005,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 2005,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "2004",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 2004,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 2004,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "2003",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 2003,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 2003,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "2002",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 2002,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 2002,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "2001",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 2001,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 2001,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "2000",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 2000,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 2000,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "1999",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 1999,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 1999,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "1998",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 1998,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 1998,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "1997",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 1997,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 1997,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "1996",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 1996,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 1996,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "1995",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 1995,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 1995,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "1994",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 1994,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 1994,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "1993",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 1993,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 1993,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "1992",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 1992,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 1992,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "1991",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 1991,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 1991,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "1990",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 1990,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 1990,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "1989",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 1989,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 1989,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "1988",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 1988,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 1988,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "1987",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 1987,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 1987,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "1986",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 1986,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 1986,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "1985",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 1985,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 1985,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "1984",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 1984,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 1984,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "1983",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 1983,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 1983,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "1982",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 1982,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 1982,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "1981",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 1981,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 1981,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "1980",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 1980,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 1980,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "1979",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 1979,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 1979,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "1978",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 1978,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 1978,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "1977",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 1977,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 1977,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "1976",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 1976,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 1976,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "1975",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 1975,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 1975,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "1974",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 1974,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 1974,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "1973",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 1973,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 1973,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "1972",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 1972,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 1972,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "1971",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 1971,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 1971,
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "1970",
+                "nodeType": "host",
+                "props": Object {
+                  "children": 1970,
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": 1970,
+                "type": "li",
+              },
+            ],
+            "type": "ul",
+          },
+        ],
+        "type": "section",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            <h3
+              className="rating-slct"
+              id="ratingState"
+              onClick={[Function]}
+            >
+              rating
+            </h3>,
+            <ul
+              className=" rating-list"
+            >
+              <li
+                onClick={[Function]}
+              >
+                G
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                PG-13
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                R
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                NC-17
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                NR
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                PG
+              </li>
+            </ul>,
+          ],
+          "className": "rating-filter",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": "rating",
+              "className": "rating-slct",
+              "id": "ratingState",
+              "onClick": [Function],
+            },
+            "ref": null,
+            "rendered": "rating",
+            "type": "h3",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                <li
+                  onClick={[Function]}
+                >
+                  G
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  PG-13
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  R
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  NC-17
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  NR
+                </li>,
+                <li
+                  onClick={[Function]}
+                >
+                  PG
+                </li>,
+              ],
+              "className": " rating-list",
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": "G",
+                "nodeType": "host",
+                "props": Object {
+                  "children": "G",
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": "G",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "PG-13",
+                "nodeType": "host",
+                "props": Object {
+                  "children": "PG-13",
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": "PG-13",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "R",
+                "nodeType": "host",
+                "props": Object {
+                  "children": "R",
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": "R",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "NC-17",
+                "nodeType": "host",
+                "props": Object {
+                  "children": "NC-17",
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": "NC-17",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "NR",
+                "nodeType": "host",
+                "props": Object {
+                  "children": "NR",
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": "NR",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "PG",
+                "nodeType": "host",
+                "props": Object {
+                  "children": "PG",
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": "PG",
+                "type": "li",
+              },
+            ],
+            "type": "ul",
+          },
+        ],
+        "type": "section",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            <h3
+              className="sort-by-slct"
+              id="sortState"
+              onClick={[Function]}
+            >
+              sort-by
+            </h3>,
+            <ul
+              className=" sort-list"
+            >
+              <li
+                id="popularity.desc"
+                onClick={[Function]}
+              >
+                most popular
+              </li>
+              <li
+                id="popularity.asc"
+                onClick={[Function]}
+              >
+                least popular
+              </li>
+              <li
+                id="release_date.desc"
+                onClick={[Function]}
+              >
+                recently released
+              </li>
+              <li
+                id="release_date.asc"
+                onClick={[Function]}
+              >
+                oldest
+              </li>
+              <li
+                id="revenue.desc"
+                onClick={[Function]}
+              >
+                highest grossing
+              </li>
+              <li
+                id="revenue.asc"
+                onClick={[Function]}
+              >
+                lowest grossing
+              </li>
+              <li
+                id="original_title.desc"
+                onClick={[Function]}
+              >
+                title A to Z
+              </li>
+              <li
+                id="original_title.asc"
+                onClick={[Function]}
+              >
+                title Z to A
+              </li>
+            </ul>,
+          ],
+          "className": "sort-filter",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": "sort-by",
+              "className": "sort-by-slct",
+              "id": "sortState",
+              "onClick": [Function],
+            },
+            "ref": null,
+            "rendered": "sort-by",
+            "type": "h3",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                <li
+                  id="popularity.desc"
+                  onClick={[Function]}
+                >
+                  most popular
+                </li>,
+                <li
+                  id="popularity.asc"
+                  onClick={[Function]}
+                >
+                  least popular
+                </li>,
+                <li
+                  id="release_date.desc"
+                  onClick={[Function]}
+                >
+                  recently released
+                </li>,
+                <li
+                  id="release_date.asc"
+                  onClick={[Function]}
+                >
+                  oldest
+                </li>,
+                <li
+                  id="revenue.desc"
+                  onClick={[Function]}
+                >
+                  highest grossing
+                </li>,
+                <li
+                  id="revenue.asc"
+                  onClick={[Function]}
+                >
+                  lowest grossing
+                </li>,
+                <li
+                  id="original_title.desc"
+                  onClick={[Function]}
+                >
+                  title A to Z
+                </li>,
+                <li
+                  id="original_title.asc"
+                  onClick={[Function]}
+                >
+                  title Z to A
+                </li>,
+              ],
+              "className": " sort-list",
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": "popularity.desc",
+                "nodeType": "host",
+                "props": Object {
+                  "children": "most popular",
+                  "id": "popularity.desc",
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": "most popular",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "popularity.asc",
+                "nodeType": "host",
+                "props": Object {
+                  "children": "least popular",
+                  "id": "popularity.asc",
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": "least popular",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "release_date.desc",
+                "nodeType": "host",
+                "props": Object {
+                  "children": "recently released",
+                  "id": "release_date.desc",
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": "recently released",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "release_date.asc",
+                "nodeType": "host",
+                "props": Object {
+                  "children": "oldest",
+                  "id": "release_date.asc",
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": "oldest",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "revenue.desc",
+                "nodeType": "host",
+                "props": Object {
+                  "children": "highest grossing",
+                  "id": "revenue.desc",
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": "highest grossing",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "revenue.asc",
+                "nodeType": "host",
+                "props": Object {
+                  "children": "lowest grossing",
+                  "id": "revenue.asc",
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": "lowest grossing",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "original_title.desc",
+                "nodeType": "host",
+                "props": Object {
+                  "children": "title A to Z",
+                  "id": "original_title.desc",
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": "title A to Z",
+                "type": "li",
+              },
+              Object {
+                "instance": null,
+                "key": "original_title.asc",
+                "nodeType": "host",
+                "props": Object {
+                  "children": "title Z to A",
+                  "id": "original_title.asc",
+                  "onClick": [Function],
+                },
+                "ref": null,
+                "rendered": "title Z to A",
+                "type": "li",
+              },
+            ],
+            "type": "ul",
+          },
+        ],
+        "type": "section",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": "submit",
+          "className": "filter-submit",
+          "onClick": [Function],
+        },
+        "ref": null,
+        "rendered": "submit",
+        "type": "button",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": "clear",
+          "className": "filter-clear",
+          "onClick": [Function],
+        },
+        "ref": null,
+        "rendered": "clear",
+        "type": "button",
+      },
+    ],
+    "type": "aside",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": Array [
+          <section
+            className="genre-filter"
+          >
+            <h3
+              className="genre-slct"
+              id="genreState"
+              onClick={[Function]}
+            >
+              genre
+            </h3>
+            <ul
+              className=" genre-list"
+            >
+              <li
+                onClick={[Function]}
+                value={28}
+              >
+                Action
+              </li>
+              <li
+                onClick={[Function]}
+                value={12}
+              >
+                Adventure
+              </li>
+              <li
+                onClick={[Function]}
+                value={16}
+              >
+                Animation
+              </li>
+              <li
+                onClick={[Function]}
+                value={35}
+              >
+                Comedy
+              </li>
+              <li
+                onClick={[Function]}
+                value={80}
+              >
+                Crime
+              </li>
+              <li
+                onClick={[Function]}
+                value={99}
+              >
+                Documentary
+              </li>
+              <li
+                onClick={[Function]}
+                value={18}
+              >
+                Drama
+              </li>
+              <li
+                onClick={[Function]}
+                value={10751}
+              >
+                Family
+              </li>
+              <li
+                onClick={[Function]}
+                value={14}
+              >
+                Fantasy
+              </li>
+              <li
+                onClick={[Function]}
+                value={36}
+              >
+                History
+              </li>
+              <li
+                onClick={[Function]}
+                value={27}
+              >
+                Horror
+              </li>
+              <li
+                onClick={[Function]}
+                value={10402}
+              >
+                Music
+              </li>
+              <li
+                onClick={[Function]}
+                value={9648}
+              >
+                Mystery
+              </li>
+              <li
+                onClick={[Function]}
+                value={10749}
+              >
+                Romance
+              </li>
+              <li
+                onClick={[Function]}
+                value={878}
+              >
+                Science Fiction
+              </li>
+              <li
+                onClick={[Function]}
+                value={10770}
+              >
+                TV Movie
+              </li>
+              <li
+                onClick={[Function]}
+                value={53}
+              >
+                Thriller
+              </li>
+              <li
+                onClick={[Function]}
+                value={10752}
+              >
+                War
+              </li>
+              <li
+                onClick={[Function]}
+                value={37}
+              >
+                Western
+              </li>
+            </ul>
+          </section>,
+          <section
+            className="year-filter"
+          >
+            <h3
+              className="year-slct"
+              id="yearState"
+              onClick={[Function]}
+            >
+              year
+            </h3>
+            <ul
+              className=" year-list"
+            >
+              <li
+                onClick={[Function]}
+              >
+                2018
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2017
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2016
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2015
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2014
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2013
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2012
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2011
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2010
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2009
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2008
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2007
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2006
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2005
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2004
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2003
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2002
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2001
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                2000
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1999
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1998
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1997
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1996
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1995
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1994
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1993
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1992
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1991
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1990
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1989
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1988
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1987
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1986
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1985
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1984
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1983
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1982
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1981
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1980
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1979
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1978
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1977
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1976
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1975
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1974
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1973
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1972
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1971
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                1970
+              </li>
+            </ul>
+          </section>,
+          <section
+            className="rating-filter"
+          >
+            <h3
+              className="rating-slct"
+              id="ratingState"
+              onClick={[Function]}
+            >
+              rating
+            </h3>
+            <ul
+              className=" rating-list"
+            >
+              <li
+                onClick={[Function]}
+              >
+                G
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                PG-13
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                R
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                NC-17
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                NR
+              </li>
+              <li
+                onClick={[Function]}
+              >
+                PG
+              </li>
+            </ul>
+          </section>,
+          <section
+            className="sort-filter"
+          >
+            <h3
+              className="sort-by-slct"
+              id="sortState"
+              onClick={[Function]}
+            >
+              sort-by
+            </h3>
+            <ul
+              className=" sort-list"
+            >
+              <li
+                id="popularity.desc"
+                onClick={[Function]}
+              >
+                most popular
+              </li>
+              <li
+                id="popularity.asc"
+                onClick={[Function]}
+              >
+                least popular
+              </li>
+              <li
+                id="release_date.desc"
+                onClick={[Function]}
+              >
+                recently released
+              </li>
+              <li
+                id="release_date.asc"
+                onClick={[Function]}
+              >
+                oldest
+              </li>
+              <li
+                id="revenue.desc"
+                onClick={[Function]}
+              >
+                highest grossing
+              </li>
+              <li
+                id="revenue.asc"
+                onClick={[Function]}
+              >
+                lowest grossing
+              </li>
+              <li
+                id="original_title.desc"
+                onClick={[Function]}
+              >
+                title A to Z
+              </li>
+              <li
+                id="original_title.asc"
+                onClick={[Function]}
+              >
+                title Z to A
+              </li>
+            </ul>
+          </section>,
+          <button
+            className="filter-submit"
+            onClick={[Function]}
+          >
+            submit
+          </button>,
+          <button
+            className="filter-clear"
+            onClick={[Function]}
+          >
+            clear
+          </button>,
+        ],
+        "className": "filters",
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <h3
+                className="genre-slct"
+                id="genreState"
+                onClick={[Function]}
+              >
+                genre
+              </h3>,
+              <ul
+                className=" genre-list"
+              >
+                <li
+                  onClick={[Function]}
+                  value={28}
+                >
+                  Action
+                </li>
+                <li
+                  onClick={[Function]}
+                  value={12}
+                >
+                  Adventure
+                </li>
+                <li
+                  onClick={[Function]}
+                  value={16}
+                >
+                  Animation
+                </li>
+                <li
+                  onClick={[Function]}
+                  value={35}
+                >
+                  Comedy
+                </li>
+                <li
+                  onClick={[Function]}
+                  value={80}
+                >
+                  Crime
+                </li>
+                <li
+                  onClick={[Function]}
+                  value={99}
+                >
+                  Documentary
+                </li>
+                <li
+                  onClick={[Function]}
+                  value={18}
+                >
+                  Drama
+                </li>
+                <li
+                  onClick={[Function]}
+                  value={10751}
+                >
+                  Family
+                </li>
+                <li
+                  onClick={[Function]}
+                  value={14}
+                >
+                  Fantasy
+                </li>
+                <li
+                  onClick={[Function]}
+                  value={36}
+                >
+                  History
+                </li>
+                <li
+                  onClick={[Function]}
+                  value={27}
+                >
+                  Horror
+                </li>
+                <li
+                  onClick={[Function]}
+                  value={10402}
+                >
+                  Music
+                </li>
+                <li
+                  onClick={[Function]}
+                  value={9648}
+                >
+                  Mystery
+                </li>
+                <li
+                  onClick={[Function]}
+                  value={10749}
+                >
+                  Romance
+                </li>
+                <li
+                  onClick={[Function]}
+                  value={878}
+                >
+                  Science Fiction
+                </li>
+                <li
+                  onClick={[Function]}
+                  value={10770}
+                >
+                  TV Movie
+                </li>
+                <li
+                  onClick={[Function]}
+                  value={53}
+                >
+                  Thriller
+                </li>
+                <li
+                  onClick={[Function]}
+                  value={10752}
+                >
+                  War
+                </li>
+                <li
+                  onClick={[Function]}
+                  value={37}
+                >
+                  Western
+                </li>
+              </ul>,
+            ],
+            "className": "genre-filter",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": "genre",
+                "className": "genre-slct",
+                "id": "genreState",
+                "onClick": [Function],
+              },
+              "ref": null,
+              "rendered": "genre",
+              "type": "h3",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  <li
+                    onClick={[Function]}
+                    value={28}
+                  >
+                    Action
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                    value={12}
+                  >
+                    Adventure
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                    value={16}
+                  >
+                    Animation
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                    value={35}
+                  >
+                    Comedy
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                    value={80}
+                  >
+                    Crime
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                    value={99}
+                  >
+                    Documentary
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                    value={18}
+                  >
+                    Drama
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                    value={10751}
+                  >
+                    Family
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                    value={14}
+                  >
+                    Fantasy
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                    value={36}
+                  >
+                    History
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                    value={27}
+                  >
+                    Horror
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                    value={10402}
+                  >
+                    Music
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                    value={9648}
+                  >
+                    Mystery
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                    value={10749}
+                  >
+                    Romance
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                    value={878}
+                  >
+                    Science Fiction
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                    value={10770}
+                  >
+                    TV Movie
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                    value={53}
+                  >
+                    Thriller
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                    value={10752}
+                  >
+                    War
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                    value={37}
+                  >
+                    Western
+                  </li>,
+                ],
+                "className": " genre-list",
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": "28",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Action",
+                    "onClick": [Function],
+                    "value": 28,
+                  },
+                  "ref": null,
+                  "rendered": "Action",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "12",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Adventure",
+                    "onClick": [Function],
+                    "value": 12,
+                  },
+                  "ref": null,
+                  "rendered": "Adventure",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "16",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Animation",
+                    "onClick": [Function],
+                    "value": 16,
+                  },
+                  "ref": null,
+                  "rendered": "Animation",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "35",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Comedy",
+                    "onClick": [Function],
+                    "value": 35,
+                  },
+                  "ref": null,
+                  "rendered": "Comedy",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "80",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Crime",
+                    "onClick": [Function],
+                    "value": 80,
+                  },
+                  "ref": null,
+                  "rendered": "Crime",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "99",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Documentary",
+                    "onClick": [Function],
+                    "value": 99,
+                  },
+                  "ref": null,
+                  "rendered": "Documentary",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "18",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Drama",
+                    "onClick": [Function],
+                    "value": 18,
+                  },
+                  "ref": null,
+                  "rendered": "Drama",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "10751",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Family",
+                    "onClick": [Function],
+                    "value": 10751,
+                  },
+                  "ref": null,
+                  "rendered": "Family",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "14",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Fantasy",
+                    "onClick": [Function],
+                    "value": 14,
+                  },
+                  "ref": null,
+                  "rendered": "Fantasy",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "36",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "History",
+                    "onClick": [Function],
+                    "value": 36,
+                  },
+                  "ref": null,
+                  "rendered": "History",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "27",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Horror",
+                    "onClick": [Function],
+                    "value": 27,
+                  },
+                  "ref": null,
+                  "rendered": "Horror",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "10402",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Music",
+                    "onClick": [Function],
+                    "value": 10402,
+                  },
+                  "ref": null,
+                  "rendered": "Music",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "9648",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Mystery",
+                    "onClick": [Function],
+                    "value": 9648,
+                  },
+                  "ref": null,
+                  "rendered": "Mystery",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "10749",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Romance",
+                    "onClick": [Function],
+                    "value": 10749,
+                  },
+                  "ref": null,
+                  "rendered": "Romance",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "878",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Science Fiction",
+                    "onClick": [Function],
+                    "value": 878,
+                  },
+                  "ref": null,
+                  "rendered": "Science Fiction",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "10770",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "TV Movie",
+                    "onClick": [Function],
+                    "value": 10770,
+                  },
+                  "ref": null,
+                  "rendered": "TV Movie",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "53",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Thriller",
+                    "onClick": [Function],
+                    "value": 53,
+                  },
+                  "ref": null,
+                  "rendered": "Thriller",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "10752",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "War",
+                    "onClick": [Function],
+                    "value": 10752,
+                  },
+                  "ref": null,
+                  "rendered": "War",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "37",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Western",
+                    "onClick": [Function],
+                    "value": 37,
+                  },
+                  "ref": null,
+                  "rendered": "Western",
+                  "type": "li",
+                },
+              ],
+              "type": "ul",
+            },
+          ],
+          "type": "section",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <h3
+                className="year-slct"
+                id="yearState"
+                onClick={[Function]}
+              >
+                year
+              </h3>,
+              <ul
+                className=" year-list"
+              >
+                <li
+                  onClick={[Function]}
+                >
+                  2018
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  2017
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  2016
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  2015
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  2014
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  2013
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  2012
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  2011
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  2010
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  2009
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  2008
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  2007
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  2006
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  2005
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  2004
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  2003
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  2002
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  2001
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  2000
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  1999
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  1998
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  1997
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  1996
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  1995
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  1994
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  1993
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  1992
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  1991
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  1990
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  1989
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  1988
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  1987
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  1986
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  1985
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  1984
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  1983
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  1982
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  1981
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  1980
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  1979
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  1978
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  1977
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  1976
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  1975
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  1974
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  1973
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  1972
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  1971
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  1970
+                </li>
+              </ul>,
+            ],
+            "className": "year-filter",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": "year",
+                "className": "year-slct",
+                "id": "yearState",
+                "onClick": [Function],
+              },
+              "ref": null,
+              "rendered": "year",
+              "type": "h3",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  <li
+                    onClick={[Function]}
+                  >
+                    2018
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    2017
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    2016
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    2015
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    2014
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    2013
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    2012
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    2011
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    2010
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    2009
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    2008
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    2007
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    2006
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    2005
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    2004
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    2003
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    2002
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    2001
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    2000
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    1999
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    1998
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    1997
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    1996
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    1995
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    1994
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    1993
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    1992
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    1991
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    1990
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    1989
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    1988
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    1987
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    1986
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    1985
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    1984
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    1983
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    1982
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    1981
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    1980
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    1979
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    1978
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    1977
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    1976
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    1975
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    1974
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    1973
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    1972
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    1971
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    1970
+                  </li>,
+                ],
+                "className": " year-list",
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": "2018",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 2018,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 2018,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "2017",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 2017,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 2017,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "2016",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 2016,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 2016,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "2015",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 2015,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 2015,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "2014",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 2014,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 2014,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "2013",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 2013,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 2013,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "2012",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 2012,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 2012,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "2011",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 2011,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 2011,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "2010",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 2010,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 2010,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "2009",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 2009,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 2009,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "2008",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 2008,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 2008,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "2007",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 2007,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 2007,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "2006",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 2006,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 2006,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "2005",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 2005,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 2005,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "2004",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 2004,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 2004,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "2003",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 2003,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 2003,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "2002",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 2002,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 2002,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "2001",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 2001,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 2001,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "2000",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 2000,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 2000,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "1999",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 1999,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 1999,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "1998",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 1998,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 1998,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "1997",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 1997,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 1997,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "1996",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 1996,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 1996,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "1995",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 1995,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 1995,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "1994",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 1994,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 1994,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "1993",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 1993,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 1993,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "1992",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 1992,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 1992,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "1991",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 1991,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 1991,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "1990",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 1990,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 1990,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "1989",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 1989,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 1989,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "1988",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 1988,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 1988,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "1987",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 1987,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 1987,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "1986",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 1986,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 1986,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "1985",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 1985,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 1985,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "1984",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 1984,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 1984,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "1983",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 1983,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 1983,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "1982",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 1982,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 1982,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "1981",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 1981,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 1981,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "1980",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 1980,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 1980,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "1979",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 1979,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 1979,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "1978",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 1978,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 1978,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "1977",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 1977,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 1977,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "1976",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 1976,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 1976,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "1975",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 1975,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 1975,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "1974",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 1974,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 1974,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "1973",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 1973,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 1973,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "1972",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 1972,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 1972,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "1971",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 1971,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 1971,
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "1970",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": 1970,
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": 1970,
+                  "type": "li",
+                },
+              ],
+              "type": "ul",
+            },
+          ],
+          "type": "section",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <h3
+                className="rating-slct"
+                id="ratingState"
+                onClick={[Function]}
+              >
+                rating
+              </h3>,
+              <ul
+                className=" rating-list"
+              >
+                <li
+                  onClick={[Function]}
+                >
+                  G
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  PG-13
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  R
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  NC-17
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  NR
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  PG
+                </li>
+              </ul>,
+            ],
+            "className": "rating-filter",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": "rating",
+                "className": "rating-slct",
+                "id": "ratingState",
+                "onClick": [Function],
+              },
+              "ref": null,
+              "rendered": "rating",
+              "type": "h3",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  <li
+                    onClick={[Function]}
+                  >
+                    G
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    PG-13
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    R
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    NC-17
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    NR
+                  </li>,
+                  <li
+                    onClick={[Function]}
+                  >
+                    PG
+                  </li>,
+                ],
+                "className": " rating-list",
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": "G",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "G",
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": "G",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "PG-13",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "PG-13",
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": "PG-13",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "R",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "R",
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": "R",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "NC-17",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "NC-17",
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": "NC-17",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "NR",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "NR",
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": "NR",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "PG",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "PG",
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": "PG",
+                  "type": "li",
+                },
+              ],
+              "type": "ul",
+            },
+          ],
+          "type": "section",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <h3
+                className="sort-by-slct"
+                id="sortState"
+                onClick={[Function]}
+              >
+                sort-by
+              </h3>,
+              <ul
+                className=" sort-list"
+              >
+                <li
+                  id="popularity.desc"
+                  onClick={[Function]}
+                >
+                  most popular
+                </li>
+                <li
+                  id="popularity.asc"
+                  onClick={[Function]}
+                >
+                  least popular
+                </li>
+                <li
+                  id="release_date.desc"
+                  onClick={[Function]}
+                >
+                  recently released
+                </li>
+                <li
+                  id="release_date.asc"
+                  onClick={[Function]}
+                >
+                  oldest
+                </li>
+                <li
+                  id="revenue.desc"
+                  onClick={[Function]}
+                >
+                  highest grossing
+                </li>
+                <li
+                  id="revenue.asc"
+                  onClick={[Function]}
+                >
+                  lowest grossing
+                </li>
+                <li
+                  id="original_title.desc"
+                  onClick={[Function]}
+                >
+                  title A to Z
+                </li>
+                <li
+                  id="original_title.asc"
+                  onClick={[Function]}
+                >
+                  title Z to A
+                </li>
+              </ul>,
+            ],
+            "className": "sort-filter",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": "sort-by",
+                "className": "sort-by-slct",
+                "id": "sortState",
+                "onClick": [Function],
+              },
+              "ref": null,
+              "rendered": "sort-by",
+              "type": "h3",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  <li
+                    id="popularity.desc"
+                    onClick={[Function]}
+                  >
+                    most popular
+                  </li>,
+                  <li
+                    id="popularity.asc"
+                    onClick={[Function]}
+                  >
+                    least popular
+                  </li>,
+                  <li
+                    id="release_date.desc"
+                    onClick={[Function]}
+                  >
+                    recently released
+                  </li>,
+                  <li
+                    id="release_date.asc"
+                    onClick={[Function]}
+                  >
+                    oldest
+                  </li>,
+                  <li
+                    id="revenue.desc"
+                    onClick={[Function]}
+                  >
+                    highest grossing
+                  </li>,
+                  <li
+                    id="revenue.asc"
+                    onClick={[Function]}
+                  >
+                    lowest grossing
+                  </li>,
+                  <li
+                    id="original_title.desc"
+                    onClick={[Function]}
+                  >
+                    title A to Z
+                  </li>,
+                  <li
+                    id="original_title.asc"
+                    onClick={[Function]}
+                  >
+                    title Z to A
+                  </li>,
+                ],
+                "className": " sort-list",
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": "popularity.desc",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "most popular",
+                    "id": "popularity.desc",
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": "most popular",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "popularity.asc",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "least popular",
+                    "id": "popularity.asc",
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": "least popular",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "release_date.desc",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "recently released",
+                    "id": "release_date.desc",
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": "recently released",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "release_date.asc",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "oldest",
+                    "id": "release_date.asc",
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": "oldest",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "revenue.desc",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "highest grossing",
+                    "id": "revenue.desc",
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": "highest grossing",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "revenue.asc",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "lowest grossing",
+                    "id": "revenue.asc",
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": "lowest grossing",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "original_title.desc",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "title A to Z",
+                    "id": "original_title.desc",
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": "title A to Z",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": "original_title.asc",
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "title Z to A",
+                    "id": "original_title.asc",
+                    "onClick": [Function],
+                  },
+                  "ref": null,
+                  "rendered": "title Z to A",
+                  "type": "li",
+                },
+              ],
+              "type": "ul",
+            },
+          ],
+          "type": "section",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": "submit",
+            "className": "filter-submit",
+            "onClick": [Function],
+          },
+          "ref": null,
+          "rendered": "submit",
+          "type": "button",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": "clear",
+            "className": "filter-clear",
+            "onClick": [Function],
+          },
+          "ref": null,
+          "rendered": "clear",
+          "type": "button",
+        },
+      ],
+      "type": "aside",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getDerivedStateFromProps": true,
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+  },
+}
+`;
